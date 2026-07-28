@@ -1,5 +1,5 @@
 streamlit
 requests
-langchain
-langchain-openai
+autogen-agentchat
+autogen-ext[openai]
 openai
